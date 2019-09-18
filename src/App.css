@@ -2,13 +2,25 @@
   text-align: center;
 }
 
-.App-logo {
+/* .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 40vmin;
   pointer-events: none;
+} */
+
+/* body {
+  background-image: url("https://images.fineartamerica.com/images-medium-large-5/texas-map-art-vintage-antique-map-of-texas-world-art-prints-and-designs.jpg"); background-color: rgba(0,0,0, 0.5); */
+/* } */
+
+h1 {color: blue; 
 }
 
-.App-header {
+img { border: solid orange  1rem
+}
+
+.longhorn {border: dashed blue 1rem}
+
+/* .App-header {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -17,7 +29,7 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
-}
+} */
 
 .App-link {
   color: #61dafb;
